@@ -581,9 +581,6 @@ section {
   background: #fff;
   border: 2px solid #0563bb;
 }
-  
-
-
 .portfolio .portfolio-wrap .portfolio-info::after {
   display: block;
   content: "";
@@ -634,28 +631,7 @@ section {
   left: 0;
   right: 0;
   bottom: 0;
-  opacity: 1;
 }
-
-.portfolio .portfolio-wrap:hover .portfolio-info {
-  opacity: 1;
-}
-
-.portfolio .portfolio-wrap:hover .portfolio-info::before {
-  top: 15px;
-  left: 15px;
-}
-
-
-
-
-  
-
-
-
-
-
-
 
 /*--------------------------------------------------------------
 # Services
