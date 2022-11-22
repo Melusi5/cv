@@ -286,6 +286,7 @@ h6 {
   height: 100vh;
   background-image: url(/pic2.jpg); 
   background-size: 135%;
+  background-color: #148af9;
   background-position: center;
   padding-top: 95rem;
   position: relative;
@@ -540,6 +541,7 @@ section {
   width: -3rem;
   margin-bottom: 5rem;
   margin-top: -3rem;
+  
 }
 /*--------------------------------------------------------------
 # Resume
