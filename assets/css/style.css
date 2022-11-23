@@ -519,23 +519,31 @@ section {
   transition: 0.9s;
   background-color: #0563bb;
 }
-.skill .img1{
-  width: 5rem;
-  margin-top: -5rem;
+.col-lg-1 .img1{
+width: 9rem;
 }
-.skill .img2{
-  width: 5rem;
-  margin-top: -5rem;
+
+.col-lg-2 .img2{
+  width: 9rem;
+  margin-left: 20rem;
+  margin-top: -21.8rem;
 }
-.skill .img3{
+
+.col-lg-3 .img3{
   width: 10rem;
-  margin-top: -3rem;
+  margin-left: 40rem;
+  margin-top: -30rem;
 }
-/* .skill .img4{
-  width: 2rem;
-  margin-bottom: 2rem;
-  margin-top: -3rem;
-} */
+
+.col-lg-4 .img4{
+  width: 20rem;
+  margin-left: 30.7rem;
+  margin-top: -42.8rem;
+  margin-bottom: -39rem;
+}
+.col-lg-1, .col-lg-2, .col-lg-3{
+  padding-left: 16rem;
+}
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
